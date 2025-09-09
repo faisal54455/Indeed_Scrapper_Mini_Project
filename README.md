@@ -27,7 +27,7 @@ It fetches job details (title, company, location, salary, job type, rating, revi
 
 ### 1. Clone this repository
 ```text
-git clone https://github.com/MOHAMMEDFAISALSM/indeed_scrape_using_apify.git
+git clone https://github.com/faisal54455/Indeed_Scrapper_Mini_Project.git
 
 cd indeed_scrape_using_apify
 ```
@@ -91,4 +91,5 @@ Contributions are welcome!
 3. Submit a pull request  
 
 Let’s build this together 🚀  
+
 

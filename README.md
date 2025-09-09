@@ -77,9 +77,9 @@ Python Developer_cleaned_jobs.xlsx
 ---
 
 ## 📧 Author
-👤 **Mohammed Faisal**  
-- GitHub: [MOHAMMEDFAISALSM](https://github.com/MOHAMMEDFAISALSM)  
-- LinkedIn: [mohammed-faisal-sm](https://www.linkedin.com/in/1810-mohammedfaisal-ai-ml-dev/)
+👤 **Mohamed Faisal A**  
+- GitHub: [MOHAMED FAISAL A](https://github.com/faisal54455/Indeed_Scrapper_Mini_Project/)  
+- LinkedIn: [mohamed-faisal-A](https://www.linkedin.com/in/mohamed-faisal-a-09492b2a2/)
 
 ---
 
@@ -91,3 +91,4 @@ Contributions are welcome!
 3. Submit a pull request  
 
 Let’s build this together 🚀  
+
